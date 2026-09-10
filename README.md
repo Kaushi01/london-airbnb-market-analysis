@@ -42,6 +42,7 @@ This project analyzes 90,000+ London Airbnb listings to answer:
 - **Matplotlib / Seaborn** — data visualization
 - **Google Colab** — development environment
 - **PowerPoint (pptxgenjs)** — final presentation deck
+- 📓 [View the full analysis notebook](airbnb_project.ipynb)
 
 ## 🎨 Presentation
 

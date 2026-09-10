@@ -2,7 +2,7 @@
 
 > An end-to-end data analysis project exploring pricing, room types, and host patterns across London's Airbnb market — from raw data to a polished presentation.
 
-![Top 15 Most Expensive Boroughs](images/chart1_price_by_borough.png)
+![Top 15 Most Expensive Boroughs](chart1_price_by_borough.png)
 
 ## 🎯 Objective
 
@@ -43,4 +43,12 @@ This project analyzes 90,000+ London Airbnb listings to answer:
 - **Google Colab** — development environment
 - **PowerPoint (pptxgenjs)** — final presentation deck
 
-## 📁 Repository Structure
+## 🎨 Presentation
+
+The full analysis is presented as a **15-slide deck**, covering objective, methodology, data cleaning, 8 visual analyses, key insights, and recommendations — styled in Airbnb's brand color (`#FF385C`).
+
+📎 [View as PDF](London_Airbnb_Market_Analysis.pdf) | [Download PPTX](London_Airbnb_Market_Analysis.pptx)
+
+---
+
+⭐ If you found this project useful, consider giving it a star!

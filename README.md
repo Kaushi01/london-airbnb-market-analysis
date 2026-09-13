@@ -2,7 +2,7 @@
 
 > An end-to-end data analysis project exploring pricing, room types, and host patterns across London's Airbnb market — from raw data to a polished presentation.
 
-![Top 15 Most Expensive Boroughs](chart1_price_by_borough.png)
+![Top 15 Most Expensive Boroughs](charts/chart1_price_by_borough.png)
 
 ## 🎯 Objective
 
